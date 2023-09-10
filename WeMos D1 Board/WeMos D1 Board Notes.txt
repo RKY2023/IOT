@@ -1,0 +1,5 @@
+Guide to WeMos D1 Board installation
+
+https://www.airgradient.com/open-airgradient/blog/basic-setup-skills-and-equipment-needed-to-build-our-airgradient-diy-sensor/#:~:text=Connect%20the%20D1%20MINI%20with,not%20provide%20the%20Data%20capabilities.
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
